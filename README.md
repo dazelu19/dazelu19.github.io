@@ -1,2 +1,2 @@
 # dazelu19.github.io
- my website
+ my website, for my blog.
