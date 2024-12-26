@@ -3,8 +3,8 @@
 
 
 
-## Q&A
-### 1、为什么一个句子嵌入之后维度是单个维度？
+### Q&A
+#### 1、为什么一个句子嵌入之后维度是单个维度？
 比如这句话：
 ```text
 Outcome: The patient experienced a resolution of acute chest syndrome symptoms. However, there are ongoing management challenges associated with SCD and medication side effects. The management plan involves continuous coordination between hematology and rheumatology specialists for concurrent SCD and SLE management.
