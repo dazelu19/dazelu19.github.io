@@ -6,7 +6,7 @@
 ### 1.3 [向量数据库](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/VectorDatabase_cn.md "向量数据库探究")
 
 ## 2 技术日志
-### 2.1 [Milvus使用记录]()
+### 2.1 [Milvus使用记录](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/MilvusDatabase_cn.md "Milus数据库使用记录")
 
 ## 3 实践总结
 
