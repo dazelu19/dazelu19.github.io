@@ -5,6 +5,7 @@
 ### 2.2 [搜索算法](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/SearchAlgorithm_cn.md "搜索算法探究")
 
 ## 2 技术日志
+### 2.1 [向量数据库]()
 
 ## 3 实践总结
 
