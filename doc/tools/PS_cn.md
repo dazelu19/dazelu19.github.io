@@ -1,6 +1,7 @@
 ## PS 使用
 删除主体：选中目标，fill，另外可以直接使用delete删除，不过这样就背景不会被填充
-调整选中的目标的范围，
+调整选中的目标的范围，有四种模式，如下如所示
+![主体选择四种模式](https://github.com/dazelu19/dazelu19.github.io/images/ps_select_4_mode.png)
 
 选择主体并建立新的图层，选中主体之后CTRL C+V, 
 
