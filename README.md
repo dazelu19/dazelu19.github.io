@@ -5,6 +5,7 @@
 ### 1.2 [搜索算法](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/SearchAlgorithm_cn.md "搜索算法探究")
 ### 1.3 [向量数据库](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/VectorDatabase_cn.md "向量数据库探究")
 ### 1.4 [大模型安全](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/AIModelSecurity_cn.md "大模型安全探究")
+### 1.5 [大模型训练和微调](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/LLMTrainFT_cn.md "大模型训练和微调探究")
 
 ## 2 技术日志
 ### 2.1 [Milvus使用记录](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/MilvusDatabase_cn.md "Milus数据库使用记录")
