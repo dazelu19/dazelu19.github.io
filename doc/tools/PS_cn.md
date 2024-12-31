@@ -14,3 +14,7 @@
 在菜单中选择“透视变形（Perspective Warp）”进行调整。
 
 5. 图片风格化：Filter->Filter Gallery 然后找到各种风格
+
+6. 使用物体附近的颜色进行填充：这里介绍印章的用法，选择印章，按住option（mac）选择用什么位置的颜色填充，然后放开涂抹要填充的部位；
+
+7. 修改图像某个部位的亮度：使用burn tool（界面左边栏的工具），和dodge tool， sponge tool在一起，调整Exposure，然后涂抹要调整部位。
