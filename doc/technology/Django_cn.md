@@ -1,7 +1,9 @@
 ## Django 探究
 
 ## x @method_decorator(csrf_exempt, name='dispatch')
-在这个方法之下需要使用class iew.
+在这个方法之下需要使用class view.
+
+@csrf_exempt也可以在函数的方式下使用post方法
 
 
 ## x tips
