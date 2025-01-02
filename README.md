@@ -11,7 +11,7 @@
 ### 2.1 [Milvus使用记录](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/MilvusDatabase_cn.md "Milus数据库使用记录")
 ### 2.2 [PS](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/tools/PS_cn.md)
 ### 2.3 [ollama等AI框架内核分析](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/OllamaEtcAIFramework_cn.md)
-
+### 2.4 [大模型使用心得](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/LLMsUsageTops_cn.md)
 ## 3 实践总结
 
 ## 4 English
