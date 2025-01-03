@@ -5,7 +5,7 @@ Transformer 绝对是需要深入学习的结构，下面的图是从文章中�
 
 ![transformer architecture](https://github.com/dazelu19/dazelu19.github.io/blob/main/images/transformer.png)
 ## Q&A
-#### 问题1：为什么要使用Feedforword结构？
+#### 1 问题1：为什么要使用Feedforword结构？
 在 Transformer 使用 **Feedforward Networks** 的主要目的是提升模型的表达能力，通过非线性变换进一步捕获输入数据的特征。
 
 **丰富特征表示**
@@ -29,7 +29,8 @@ Transformer 绝对是需要深入学习的结构，下面的图是从文章中�
 **有效的参数共享**
    Feedforward 网络在每个位置上共享参数，这减少了模型的参数量，并使得模型具有更好的训练效率和泛化能力。
 
-#### 问题2： 在多头注意力机制中，为什么要除以 $\sqrt(d_k)$
+
+#### 2 问题2： 在多头注意力机制中，为什么要除以 $\sqrt(d_k)$
 根据《Attention Is All You Need》这篇论文，在多头注意力机制中除以 $(sqrt{d_k})$ 的原因如下：
 
 **点积值的大小控制**
