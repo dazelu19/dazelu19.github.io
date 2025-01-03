@@ -53,3 +53,5 @@ Transformer 绝对是需要深入学习的结构，下面的图是从文章中�
 ![](https://github.com/dazelu19/dazelu19.github.io/blob/main/images/multi_head_attention.png)
 
 ### Reference
+[1] transformer by hand: https://aibyhand.substack.com/p/8-can-you-calculate-a-transformer
+
