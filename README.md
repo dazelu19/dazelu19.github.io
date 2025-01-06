@@ -8,6 +8,7 @@
 ### 1.4 [大模型基础](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/LLMBaseKnowledge_cn.md)
 ### 1.5 [大模型安全](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/AIModelSecurity_cn.md "大模型安全探究")
 ### 1.6 [大模型训练和微调](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/LLMTrainFT_cn.md "大模型训练和微调探究")
+### 1.7 [知识图谱探究](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/cn/KnowledgeGraph_cn.md)
 
 ## 2 技术日志
 ### 2.1 [Milvus使用记录](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/technology/MilvusDatabase_cn.md "Milus数据库使用记录")
