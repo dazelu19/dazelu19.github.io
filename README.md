@@ -18,6 +18,7 @@
 
 ## 4 其他工具
 ### 4.1 [PS](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/tools/PS_cn.md)
+### 4.2 [frp](https://github.com/dazelu19/dazelu19.github.io/blob/main/doc/others/frp_cn.md)
 
 ## 5 English
 
