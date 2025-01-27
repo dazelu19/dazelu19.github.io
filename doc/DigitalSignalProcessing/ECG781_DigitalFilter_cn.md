@@ -48,6 +48,16 @@ $X(e^{j\omega}) = \sum_{n=-\infty}^\infty x[n] e^{-j\omega n}$
 
 $x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{j\omega}) e^{j\omega n} d\omega$
 
+- 如果 $h(n)$ 是实数，则频率响应 $H(e^{j\omega})$ 还满足共轭对称性：
+    
+    $H(e^{j\omega}) = H^*(e^{-j\omega})$
+    
+    其中$H^*(e^{-j\omega})$ 是 $H(e^{-j\omega})$ 的共轭。
+    
+- 这意味着：
+    
+    - $H(e^{j\omega})$ 的幅度对称，满足 $|H(e^{j\omega})| = |H(e^{-j\omega})|$。
+    - $H(e^{j\omega})$ 的相位关于 $\omega = 0$ 对称。
 
 
 #### **特点**
