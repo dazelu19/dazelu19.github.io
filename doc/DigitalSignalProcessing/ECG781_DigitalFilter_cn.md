@@ -91,6 +91,18 @@ $x[n] = \frac{1}{2\pi j} \oint_C X(z) z^{n-1} dz$
 
 ---
 
+#### **Z变换的收敛域**
+几个属性：
+1. $X(z)$ 是信号的 **Z 变换**，其中 $z = e^{j\omega}$ 表示 $Z$ 平面上的单位圆（即 $∣z∣=1$）。**条件**：只有当 $Z$ 变换的收敛域（ROC）**包含单位圆 $∣z∣=1$** 时，频率响应 $X(e^{j\omega})$ 才能从 Z 变换中得到。
+2. The ROC cannot contain any poles.
+3.  **If $x(n)$ is a finite-length sequence, the ROC is the entire Z-plane except possibly at $z=0$ and/or $z = \infty$**
+
+- 对于有限长度的序列，$x(n)$ 的 Z 变换 $X(z)$ 是一个多项式或分式。
+- 由于有限序列中没有收敛性问题，Z 平面的绝大部分都属于 ROC。
+- 唯一的例外是 $z=0$ 和 $z = \infty$，因为它们可能对应信号的特殊行为（如指数放大或缩小）。
+
+4. If $x(n)$ is a right-sided sequence, the ROC extends outward from the outermost finite pole in $X(z)$, and a left-sideed sequence, the ROC is $|z|<R$
+
 #### **特点**
 
 1. **适用范围**：
