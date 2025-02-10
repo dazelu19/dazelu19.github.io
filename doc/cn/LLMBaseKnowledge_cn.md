@@ -4,6 +4,13 @@
 Transformer 绝对是需要深入学习的结构，下面的图是从文章中截来的。
 
 ![transformer architecture](https://github.com/dazelu19/dazelu19.github.io/blob/main/images/transformer.png)
+
+## 2. ![大模型的采样技术](https://nn.labml.ai/zh/)
+### 2.1 贪婪采样
+### 2.2 温度采样
+### Top-K采样
+### 核采样
+
 ## Q&A
 #### 1 问题1：为什么要使用Feedforword结构？
 在 Transformer 使用 **Feedforward Networks** 的主要目的是提升模型的表达能力，通过非线性变换进一步捕获输入数据的特征。
