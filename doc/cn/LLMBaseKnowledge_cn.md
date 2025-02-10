@@ -5,7 +5,7 @@ Transformer 绝对是需要深入学习的结构，下面的图是从文章中�
 
 ![transformer architecture](https://github.com/dazelu19/dazelu19.github.io/blob/main/images/transformer.png)
 
-## 2. ![大模型的采样技术](https://nn.labml.ai/zh/)
+## 2. [大模型的采样技术](https://nn.labml.ai/zh/)
 ### 2.1 贪婪采样
 ### 2.2 温度采样
 ### Top-K采样
